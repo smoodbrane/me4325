@@ -18,7 +18,7 @@ I am currently working as an engineering intern at Aerogen, a med-tech company i
 ### Work Logs
 - [x] Work Log 1
 - [x] Work Log 2
-- [ ] Work Log 3
+- [x] Work Log 3
 - [ ] Work Log 4
 - [ ] Work Log 5
 - [ ] Work Log 6
