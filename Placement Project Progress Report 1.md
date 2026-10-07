@@ -40,11 +40,11 @@ and fixtures need to be placed in each cell.
 Once the required tests and tooling have been confirmed with R&D, the next stage is to
 source and prepare the equipment the cells will need, and to plan the physical layout.
 The main tasks are:
-- **One 30 Sep 2026:** Visit site to assess the available space and plan layout
+- **On 30 Sep 2026:** Visit site to assess the available space and plan layout
 - **By Dec 2026:** Design and make any custom tooling and fixture not available
 to purchase
 - **By Jan 2027:** Finalise the proposed cell layout
-- **By Feb 2027:**Conduct first production test, produce 100 units
+- **By Feb 2027:** Conduct first production test, produce 100 units
 
 ## Complications or Issues Encountered
 
