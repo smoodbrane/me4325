@@ -13,7 +13,27 @@ I am currently working as an engineering intern at Aerogen, a med-tech company i
 - **Model Bike Shelter:** Designed and built a functional electromechanical model of an underground bike storage facility, incorporating mechanisms for lifting and lowering the platform, and for moving the bike onto and off of a storage rack.
 - **ESP32 RC Car:** A remote-controlled car built from the ground up, with all control logic, wireless communication and motor control programmed on an ESP32 microcontroller.
 
-## Repositories
+### Summary
+
+| Project | Key Technologies | My Role |
+|---|---|---|
+| Automated Sorting Conveyor | Pneumatics, PLC, CAD, 3D printing | Mechanical design |
+| Model Bike Shelter | Electromechanical lifting and transfer mechanisms | Design and build |
+| ESP32 RC Car | ESP32, wireless control, motor control | Assembly and programming |
+
+## Placement Goals
+
+1. Develop process engineering skills
+   - Set up manufacturing cells for a new production line
+   - Learn line balancing with cycle and takt time analysis
+2. Apply structured problem solving
+   - Use the DMAIC methodology on a workplace challenge
+   - Track progress through weekly work logs and progress reports
+3. Build professional documentation skills
+   - Write SOPs and control plans
+   - Produce flow charts and other supporting documents
+   
+## Checklist
 
 ### Work Logs
 - [x] Work Log 1
@@ -36,3 +56,10 @@ I am currently working as an engineering intern at Aerogen, a med-tech company i
 - [ ] Progress Report 4
 - [ ] Progress Report 5
 - [ ] Progress Report 6
+
+### Tasks
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+- [ ] Task 4
+- [ ] Task 5
