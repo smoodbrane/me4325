@@ -7,7 +7,7 @@ My academic focus reflects the interdisciplinary nature of Digital Mechatronic E
 
 I am currently working as an engineering intern at Aerogen, a med-tech company that produces nebulisers (as pictured below), in a process development role.
 
-![Nebuliser Image](images/nebuliser.jpg)
+<img src="images/nebuliser.jpg" alt="Nebuliser" width="250">
 
 ## Portfolio
 
