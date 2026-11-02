@@ -5,7 +5,9 @@ I am an engineering student at the University of Limerick, undertaking a bachelo
 
 My academic focus reflects the interdisciplinary nature of Digital Mechatronic Engineering, spanning embedded systems, control theory, and mechanical design. I am particularly interested in the integration of digital electronics, software, and physical systems, from initial design through to a functioning mechatronic implementation. In addition to my coursework, I undertake independent projects to further develop these skills.
 
-I am currently working as an engineering intern at Aerogen, a med-tech company in a process development role.
+I am currently working as an engineering intern at Aerogen, a med-tech company that produces nebulisers (as pictured below), in a process development role.
+
+![Nebuliser Image](images/nebuliser.jpg)
 
 ## Portfolio
 
@@ -61,5 +63,5 @@ I am currently working as an engineering intern at Aerogen, a med-tech company i
 - [x] Task 1
 - [x] Task 2
 - [x] Task 3
-- [ ] Task 4
+- [x] Task 4
 - [ ] Task 5
