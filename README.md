@@ -55,7 +55,7 @@ I am currently working as an engineering intern at Aerogen, a med-tech company t
 - [x] Progress Report 1
 - [x] Progress Report 2
 - [x] Progress Report 3
-- [ ] Progress Report 4
+- [x] Progress Report 4
 - [ ] Progress Report 5
 - [ ] Progress Report 6
 
