@@ -3,7 +3,7 @@
 ## About
 I am an engineering student at the University of Limerick, undertaking a bachelor's degree in Digital Mechatronic Engineering.
 
-My academic focus reflects the interdisciplinary nature of Digital Mechatronic Engineering, spanning embedded systems, control theory, and mechanical design. I am particularly interested in the integration of digital electronics, software, and physical systems, from initial design through to a functioning mechatronic implementation. In addition to my coursework, I undertake independent projects to further develop these skills.
+My academic focus reflects the interdisciplinary nature of Digital Mechatronic Engineering, spanning embedded systems, control theory, and mechanical design. I am particularly interested in the integration of digital electronics, software, and physical systems, from initial design through to a functioning mechatronic implementation. In addition to my coursework, I undertake independent projects to further develop these skills. More information is available in my [CV](/CV/CV.md).
 
 I am currently working as an engineering intern at Aerogen, a med-tech company that produces nebulisers (as pictured below), in a process development role.
 
@@ -64,4 +64,4 @@ I am currently working as an engineering intern at Aerogen, a med-tech company t
 - [x] Task 2
 - [x] Task 3
 - [x] Task 4
-- [ ] Task 5
+- [x] Task 5
